@@ -5,7 +5,7 @@ Hi and welcome to my github page. I try to keep my personal projects updated and
 A couple facts about myself:
 - I’m interested in Machine Learning applications in industry
 - I love data and turning it into valuable insights
-- I love learning. I try to keep up to date on the latest technology in my free time.
+- I love learning. I try to keep up to date on the latest technology in my free time
 - Recently completed graduate studies in Computer Science
 - Currently working as a data scientist based in Boston
 
