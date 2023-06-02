@@ -1,14 +1,12 @@
-<!---
+# About me
 
-<h1> Hi There, I am Nicolas Dhers </h1>
+Hi and welcome to my github page. I try to keep my personal projects updated and sync'ed here.
 
+A couple facts about myself:
+- I’m interested in Machine Learning applications in industry
+- I love data and turning it into valuable insights
+- I love learning. I try to keep up to date on the latest technology in my free time.
+- Recently completed graduate studies in Computer Science
+- Currently working as a data scientist based in Boston
 
-- I’m interested in Machine Learning applications in engineering
-- I'm also learning web development as a tool to clearly illustrate results
-- I recently finished my bachelor in Mechanical Engineering and will soon start my Master in Computational Science and Engineering
-
---->
-
-<!---
-Introductory file
---->
+Some of the projects I have worked on are summarized in my [Portfolio](https://github.com/ndhers/Portfolio).
