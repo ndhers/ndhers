@@ -3,6 +3,7 @@
 Hi and welcome to my github page. I try to keep my personal projects updated and sync'ed here.
 
 A couple facts about myself:
+- Academic background in Mechanical Engineering and Computer Science
 - I’m interested in Machine Learning applications in industry
 - I love data and turning it into valuable insights
 - I love learning. I try to keep up to date on the latest technology in my free time
